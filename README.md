@@ -81,9 +81,8 @@ The objectives of this dashboard are to:
 
 # 🖥️ 5. Dashboard Preview
 
-### 📊 Amazon Sales Performance Dashboard
+![Amazon Sales Performance Dashboard](Dashboard.png)
 
-(Dashboard.png)
 
 ---
 
