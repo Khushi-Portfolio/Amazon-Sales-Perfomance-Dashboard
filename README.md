@@ -10,14 +10,14 @@ The dashboard helps business users monitor overall sales performance, identify t
 
 The objectives of this dashboard are to:
 
-- 📈 Analyze overall sales performance.
-- 💰 Monitor key business KPIs.
-- 🛍️ Identify top-selling products and brands.
-- 📦 Analyze product category performance.
-- 🌍 Evaluate country-wise sales.
-- 💳 Understand customer payment preferences.
-- 🚚 Monitor order delivery status.
-- 🎛️ Enable interactive business analysis using filters.
+-  Analyze overall sales performance.
+-  Monitor key business KPIs.
+-  Identify top-selling products and brands.
+-  Analyze product category performance.
+-  Evaluate country-wise sales.
+-  Understand customer payment preferences.
+-  Monitor order delivery status.
+-  Enable interactive business analysis using filters.
 
 ---
 
@@ -52,30 +52,30 @@ The objectives of this dashboard are to:
 
 ## 📌 KPI Cards
 
-- 📦 Total Orders
-- 💰 Total Sales
-- 📦 Total Quantity Sold
-- 💳 Average Order Value
-- 🏷️ Average Discount
+-  Total Orders
+-  Total Sales
+-  Total Quantity Sold
+-  Average Order Value
+-  Average Discount
 
 ## 🎛️ Interactive Filters
 
-- 🌍 Country
-- 📂 Category
-- 🏷️ Brand
-- 💳 Payment Method
-- 📦 Order Status
+-  Country
+-  Category
+-  Brand
+-  Payment Method
+-  Order Status
 
 ## 📊 Dashboard Visualizations
 
-- 📈 Monthly Sales Trend
-- 📊 Sales by Category
-- 📊 Sales by Brand
-- 🏆 Top 10 Products by Sales
-- 🌍 Sales by Country (Map)
-- 🥧 Payment Method Distribution
-- 🥧 Order Status Distribution
-- 🌳 Sales Contribution by Category (Treemap)
+-  Monthly Sales Trend
+-  Sales by Category
+-  Sales by Brand
+-  Top 10 Products by Sales
+-  Sales by Country (Map)
+-  Payment Method Distribution
+-  Order Status Distribution
+-  Sales Contribution by Category (Treemap)
 
 ---
 
@@ -88,27 +88,27 @@ The objectives of this dashboard are to:
 
 # 💡 6. Business Insights
 
-- 📱 Electronics generated the highest sales among all categories.
-- 🏆 CoreTech emerged as one of the top-performing brands.
-- 📈 Monthly sales remained relatively stable throughout the year.
-- 🛒 A few products contributed a significant portion of overall revenue.
-- 💳 Credit Card was one of the most preferred payment methods.
-- ✅ Most customer orders were successfully delivered.
-- 🌍 Sales varied across countries, highlighting regional opportunities.
-- 🎛️ Interactive filters enable detailed business analysis.
+-  Electronics generated the highest sales among all categories.
+-  CoreTech emerged as one of the top-performing brands.
+-  Monthly sales remained relatively stable throughout the year.
+-  A few products contributed a significant portion of overall revenue.
+-  Credit Card was one of the most preferred payment methods.
+-  Most customer orders were successfully delivered.
+-  Sales varied across countries, highlighting regional opportunities.
+-  Interactive filters enable detailed business analysis.
 
 ---
 
 # 📋 7. Business Recommendations
 
-- 📦 Increase inventory for high-performing categories.
-- 📣 Focus marketing campaigns on top-performing brands.
-- 🛍️ Promote best-selling products using targeted advertising.
-- 🌍 Improve sales strategies in lower-performing regions.
-- 💰 Optimize discount strategies to improve profitability.
-- 💳 Encourage digital payment methods through promotional offers.
-- 🚚 Reduce returned and cancelled orders by improving logistics.
-- 📈 Use monthly sales trends for inventory forecasting.
+-  Increase inventory for high-performing categories.
+-  Focus marketing campaigns on top-performing brands.
+-  Promote best-selling products using targeted advertising.
+-  Improve sales strategies in lower-performing regions.
+-  Optimize discount strategies to improve profitability.
+-  Encourage digital payment methods through promotional offers.
+-  Reduce returned and cancelled orders by improving logistics.
+-  Use monthly sales trends for inventory forecasting.
 
 ---
 
@@ -116,15 +116,15 @@ The objectives of this dashboard are to:
 
 This dashboard helps answer important business questions such as:
 
-- 📈 What is the overall sales performance?
-- 🛍️ Which category generates the highest revenue?
-- 🏷️ Which brands contribute the most sales?
-- 🏆 Which are the top-selling products?
-- 📅 How do monthly sales change over time?
-- 🌍 Which countries generate the highest sales?
-- 💳 Which payment methods are most frequently used?
-- 📦 What is the distribution of order statuses?
-- 🎛️ How do interactive filters impact business performance?
+-  What is the overall sales performance?
+-  Which category generates the highest revenue?
+-  Which brands contribute the most sales?
+-  Which are the top-selling products?
+-  How do monthly sales change over time?
+-  Which countries generate the highest sales?
+-  Which payment methods are most frequently used?
+-  What is the distribution of order statuses?
+-  How do interactive filters impact business performance?
 
 ---
 
@@ -132,22 +132,22 @@ This dashboard helps answer important business questions such as:
 
 | Tool | Purpose |
 |------|---------|
-| 📊 Tableau Public | Dashboard Development & Visualization |
-| 📄 CSV / Microsoft Excel | Data Preparation |
-| 🐙 GitHub | Project Repository & Portfolio |
+|  Tableau Public | Dashboard Development & Visualization |
+|  CSV / Microsoft Excel | Data Preparation |
+|  GitHub | Project Repository & Portfolio |
 
 ---
 
 # 🔮 10. Future Enhancements
 
-- 📅 Add Year and Quarter filters.
-- 📊 Include Profit & Profit Margin analysis.
-- 👥 Add Customer Segmentation dashboard.
-- 📈 Build Sales Forecasting models.
-- 🌐 Connect to real-time data sources.
-- 📱 Develop a mobile-friendly dashboard.
-- 🗺️ Add drill-down functionality (Country → State → City).
-- 👤 Include customer demographic analysis.
+-  Add Year and Quarter filters.
+-  Include Profit & Profit Margin analysis.
+-  Add Customer Segmentation dashboard.
+-  Build Sales Forecasting models.
+-  Connect to real-time data sources.
+-  Develop a mobile-friendly dashboard.
+-  Add drill-down functionality (Country → State → City).
+-  Include customer demographic analysis.
 
 ---
 
@@ -167,6 +167,3 @@ This project demonstrates practical Business Intelligence skills, dashboard desi
 
 💼 **Passionate about becoming a Business Analyst & Marketing Analyst**
 
----
-
-## ⭐ If you found this project helpful, consider giving it a ⭐ on GitHub!
