@@ -83,7 +83,7 @@ The objectives of this dashboard are to:
 
 ### 📊 Amazon Sales Performance Dashboard
 
-![Amazon Sales Performance Dashboard](Dashboard.png)
+(Dashboard.png)
 
 ---
 
