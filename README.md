@@ -82,7 +82,7 @@ The **Amazon Sales Performance Dashboard** is an interactive business intelligen
 ## 🖼 Dashboard Preview
 
 <p align="center">
-  <img src="Screenshots/Dashboard.png" alt="Amazon Sales Performance Dashboard" width="1000"/>
+  <img src="Dashboard.png" alt="Amazon Sales Performance Dashboard" width="1000">
 </p>
 
 ---
@@ -154,6 +154,7 @@ This dashboard answers the following business questions:
 
 The **Amazon Sales Performance Dashboard** transforms raw sales data into meaningful business insights through interactive visualizations and key performance indicators. It enables users to analyze sales performance, monitor business trends, evaluate customer behavior, and identify opportunities for business growth. This project demonstrates practical skills in **Tableau, data visualization, dashboard design, and business analytics**, making it a strong addition to a professional data analytics portfolio.
 
+---
 
 ## 👨‍💻 Author
 
