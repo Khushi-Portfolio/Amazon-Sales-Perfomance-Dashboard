@@ -43,7 +43,7 @@ The **Amazon Sales Performance Dashboard** is an interactive business intelligen
 | Tax | Decimal | Tax amount |
 | Discount | Percentage | Discount offered |
 | Payment Method | String | Customer payment method |
-| Order Status | String | Delivered, Cancelled, Returned, etc. |
+| Order Status | String | Delivered, Cancelled, Returned |
 | Total Amount | Decimal | Final sales amount |
 
 ---
@@ -81,9 +81,9 @@ The **Amazon Sales Performance Dashboard** is an interactive business intelligen
 
 ## 🖼 Dashboard Preview
 
-```markdown
-![Amazon Sales Performance Dashboard](Screenshots/Dashboard.png)
-```
+<p align="center">
+  <img src="Screenshots/Dashboard.png" alt="Amazon Sales Performance Dashboard" width="1000"/>
+</p>
 
 ---
 
@@ -165,8 +165,8 @@ The **Amazon Sales Performance Dashboard** transforms raw sales data into meanin
 
 📊 Passionate about transforming data into meaningful business insights through analytics and interactive dashboards.
 
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub. 
+---
 
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub. Your support motivates me to create m analytics and business intelligence projects.
+## ⭐ Support
 
-**Thank you for visiting my repository! 😊**
+If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
