@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The **Amazon Sales Performance Dashboard** is a business intelligence solution built using **Tableau Public** to transform raw sales data into meaningful and interactive visualizations. The dashboard provides a centralized view of key sales metrics, customer purchasing behavior, product performance, and regional sales distribution. It enables users to explore data through interactive filters and gain valuable insights that support strategic business decisions and performance monitoring.
+The **Amazon Sales Performance Dashboard** is an interactive business intelligence dashboard developed using **Tableau Public** to analyze Amazon sales data. It provides a comprehensive view of sales performance, product categories, brands, customer purchasing behavior, payment methods, and regional sales through interactive visualizations. The dashboard enables users to monitor key business metrics, identify trends, and make data-driven business decisions efficiently.
 
 ---
 
@@ -28,7 +28,7 @@ The **Amazon Sales Performance Dashboard** is a business intelligence solution b
 | Order ID | Integer | Unique identifier for each order |
 | Order Date | Date | Date when the order was placed |
 | Customer ID | Integer | Unique customer identifier |
-| Customer Name | String | Customer name |
+| Customer Name | String | Name of the customer |
 | Country | String | Customer country |
 | State | String | Customer state |
 | City | String | Customer city |
@@ -38,7 +38,7 @@ The **Amazon Sales Performance Dashboard** is a business intelligence solution b
 | Product Name | String | Product name |
 | Seller ID | Integer | Unique seller identifier |
 | Quantity | Integer | Number of units sold |
-| Unit Price | Decimal | Price of a single product |
+| Unit Price | Decimal | Price of one unit |
 | Shipping Cost | Decimal | Shipping charges |
 | Tax | Decimal | Tax amount |
 | Discount | Percentage | Discount offered |
@@ -50,76 +50,76 @@ The **Amazon Sales Performance Dashboard** is a business intelligence solution b
 
 ## 📊 Dashboard Features
 
-### 📌 KPI Cards
+### 📌 Key Performance Indicators (KPIs)
 
--  Total Orders
--  Total Sales
--  Total Quantity
--  Average Order Value
--  Average Discount
+- Total Orders
+- Total Sales
+- Total Quantity
+- Average Order Value
+- Average Discount
 
-### 📈 Visualizations
+### 📈 Dashboard Visualizations
 
--  Monthly Sales Trend
--  Sales by Category
--  Sales by Brand
--  Top 10 Products by Sales
--  Sales by Country (Map)
--  Payment Method Distribution
--  Order Status Distribution
--  Sales Contribution by Category (Treemap)
+- Monthly Sales Trend
+- Sales by Category
+- Sales by Brand
+- Top 10 Products by Sales
+- Sales by Country (Map)
+- Payment Method Distribution
+- Order Status Distribution
+- Sales Contribution by Category (Treemap)
 
 ### 🎛 Interactive Filters
 
--  Country
--  Category
--  Brand
--  Payment Method
--  Order Status
+- Country
+- Category
+- Brand
+- Payment Method
+- Order Status
 
 ---
 
 ## 🖼 Dashboard Preview
 
 ```markdown
-![Amazon Sales Dashboard](Screenshots/Dashboard.png)
+![Amazon Sales Performance Dashboard](Screenshots/Dashboard.png)
 ```
 
 ---
 
 ## 📈 Business Insights
 
-- 💰 Total Sales reached **₹91.83 Million**.
-- 📦 More than **100,000 orders** were analyzed.
-- 📦 Total Quantity Sold exceeded **300,000 units**.
-- 💳 Average Order Value is **₹918.26**.
-- 🎯 Average Discount offered is **7.42%**.
+- Total Sales reached **₹91.83 Million**.
+- More than **100,000 orders** were analyzed.
+- Total Quantity Sold exceeded **300,000 units**.
+- Average Order Value is **₹918.26**.
+- Average Discount offered is **7.42%**.
 - Electronics generated the highest sales among all product categories.
 - CoreTech emerged as one of the top-performing brands.
 - Memory Card 128GB was one of the highest-selling products.
 - Credit Card is the most preferred payment method.
 - More than **74%** of orders were successfully delivered.
 - Monthly sales remained relatively stable throughout the year.
-- Multiple countries contributed to overall sales performance.
+- Multiple countries contributed significantly to overall sales performance.
 
 ---
 
 ## 💡 Business Recommendations
 
-- Increase inventory for top-selling products.
-- Focus marketing campaigns on low-performing categories.
+- Increase inventory for top-selling products to avoid stock shortages.
+- Focus promotional campaigns on low-performing product categories.
 - Strengthen partnerships with high-performing brands.
-- Expand sales efforts in countries with lower revenue.
-- Encourage digital payment methods through promotional offers.
+- Expand marketing efforts in countries with lower sales.
+- Encourage digital payment methods through attractive offers.
 - Reduce cancelled and returned orders by improving logistics and product quality.
-- Use monthly sales trends for inventory and demand forecasting.
-- Promote high-margin products through targeted marketing campaigns.
+- Use monthly sales trends for inventory planning and demand forecasting.
+- Promote high-margin products through targeted marketing strategies.
 
 ---
 
 ## ❓ Business Requirements
 
-The dashboard answers the following business questions:
+This dashboard answers the following business questions:
 
 1. What is the total sales revenue?
 2. How many total orders were placed?
@@ -133,8 +133,8 @@ The dashboard answers the following business questions:
 10. Which countries generate the highest sales?
 11. Which payment methods are most preferred by customers?
 12. What is the distribution of delivered, cancelled, and returned orders?
-13. How much does each category contribute to overall sales?
-14. How do interactive filters help analyze business performance?
+13. How much does each category contribute to total sales?
+14. How do interactive filters improve business analysis?
 
 ---
 
@@ -142,20 +142,20 @@ The dashboard answers the following business questions:
 
 | Tool | Purpose |
 |------|---------|
-| Tableau Public | Dashboard Development & Visualization |
+| Tableau Public | Dashboard Development & Data Visualization |
 | Microsoft Excel | Data Cleaning & Preparation |
 | Tableau Calculated Fields | KPI Calculations |
 | Tableau Filters | Interactive Dashboard Filtering |
-| GitHub | Project Documentation & Portfolio |
+| GitHub | Project Documentation & Version Control |
 
 ---
 
 ## 📝 Conclusion
 
-This dashboard demonstrates how Tableau can be used to convert sales data into meaningful business insights through interactive visualizations. By combining KPIs, charts, maps, and filters in a single dashboard, users can efficiently monitor business performance, identify growth opportunities, and make informed decisions. The project showcases practical data visualization, dashboard design, and business analytics skills, making it a valuable addition to a data analytics portfolio.
+The **Amazon Sales Performance Dashboard** transforms raw sales data into meaningful business insights through interactive visualizations and key performance indicators. It enables users to analyze sales performance, monitor business trends, evaluate customer behavior, and identify opportunities for business growth. This project demonstrates practical skills in **Tableau, data visualization, dashboard design, and business analytics**, making it a strong addition to a professional data analytics portfolio.
 
 
-## 👨‍💻 Author 
+## 👨‍💻 Author
 
 **Khushikumar Shahukara**
 
@@ -165,8 +165,8 @@ This dashboard demonstrates how Tableau can be used to convert sales data into m
 
 📊 Passionate about transforming data into meaningful business insights through analytics and interactive dashboards.
 
----
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub. Your support motivates me to create more dat projects.
+If you found this project helpful, consider giving it a **⭐ Star** on GitHub. 
+
+If you found this project helpful, consider giving it a **⭐ Star** on GitHub. Your support motivates me to create m analytics and business intelligence projects.
 
 **Thank you for visiting my repository! 😊**
